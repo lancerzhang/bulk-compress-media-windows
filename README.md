@@ -1,8 +1,5 @@
 # bulk-compress-media-windows
-Here is a clean, polished, professional **GitHub README** written specifically for your batch script.
-You can copy-paste directly into README.md.
-
----
+注意压缩视频的时候，你可以需要微调一下`-crf 28`这个参数，这个值约小质量越好。4K/1080P的视频用28质量不错，720P可能要调整到26或者24甚至更低。
 
 # 🎞️ Windows Batch Media Processor
 
